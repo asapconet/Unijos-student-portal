@@ -1,11 +1,12 @@
-import React from 'react';
-import SidebarWithHeader from './components/HomeLayout'
-function App() {
+import React from "react";
+import SidebarWithHeader from "./components/HomeLayout";
+
+const App = () => {
   return (
     <>
-      <SidebarWithHeader>Th9is this this </SidebarWithHeader>
+      <SidebarWithHeader>This this this this t</SidebarWithHeader>
     </>
   );
-}
+};
 
 export default App;
